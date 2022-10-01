@@ -9,9 +9,22 @@
 <ul style="font-family: 'Poppins', sans-serif;font-weight:400;letter-spacing:1px;margin-top:2.25rem;">
     <li>🎓 Alterra Academy.</li>
     <li>👨🏼‍💻 I am a Front-End Web Developer.</li>
-    <li>😁 I sometimes share my study results on my Github. I know I'm no
-    expert, but I just wanted to share what I've learned.</li>
+    <li>😁 I sometimes share my study results on my Github.</li>
+    <li>📫 How to reach me: irfanhalimhidayat@gmail.com.</li>
 </ul><br>
+
+<summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
+
+I am a Full Stack Developer with 8+ years of experience in developing enterprise applications and open-source software.
+
+### My Opensource Story
+All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
+- [Nothing Private](https://github.com/gautamkrishnar/nothing-private) - This project is a proof of concept that any website can identify and track you, even if you are using private browsing or incognito mode in your web browser. It has around 1000K+ users and 1.8K+ stars.  It got discussed in many privacy forums and conferences worldwide. Various privacy-focused browser vendors were able to implement fixes to prevent fingerprinting due to this project. It also made lots of people aware of the bad effects of browser fingerprinting.
+- [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow) - A Github action to show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed. It is now used by over 5.6K+ users and running on thousands of GitHub actions runner every hour. It is also one of the top 20 [most used](https://github.com/marketplace?category=&query=sort%3Apopularity-desc&type=actions&verification=) GitHub actions internationally in GitHub Marketplace.
+-  [SoCLI](https://github.com/gautamkrishnar/socli) scored 300+ stars within 24 hours of its release. It now has almost 2K+ users. It provides an easy way of accessing StackOverflow even if you are hooked into a terminal.
+- [Motrix WebExtension](https://github.com/gautamkrishnar/motrix-webextension) - A browser extension for the Motrix Download Manager. It now has more than 10K+ users worldwide.
+- [Refined GitHub Feeds](https://github.com/gautamkrishnar/refined-github-feeds) - A browser extension that adds filtering to the Github news feeds. 
 
 <h2 style="font-family: 'Poppins', sans-serif;font-weight:400;letter-spacing:1.2px;">Technologies :</h2>
 
@@ -43,5 +56,7 @@
 ![Halim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irfanhlm&show_icons=true&theme=material-palenight)
 
 ### Find me on
-<p><a href="https://www.linkedin.com/in/kobars" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p><a href="https://www.linkedin.com/in/irfan-halim-hidayat-7274291bb/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=Irfanhlm)
