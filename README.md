@@ -1,10 +1,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
 <div style="text-align:center;border-bottom:2px solid rgb(55,62,71);margin-bottom:2rem;margin:0 auto;">
     <h1 style="text-align:center;border:0;font-family:'Poppins',sans-serif;font-weight:600;letter-spacing:1.2px;" align="center">Hi! I'm Irfan Halim Hidayat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-  <div style="display:flex; justify-content:center;align-items:center;gap:0.3rem;margin-bottom:0.8rem;" align="center">
-  <a href="mailto:irfanhalimhidayat@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge Logo"></a>
-  <a href="https://www.linkedin.com/in/irfan-halim-hidayat-7274291bb/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge Logo"></a>
-  </div>
+  
 </div><br><br>
 <ul style="font-family: 'Poppins', sans-serif;font-weight:400;letter-spacing:1px;margin-top:2.25rem;">
     <li>🎓 I recently graduated from the Alterra Academy.</li>
