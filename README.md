@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Irfanhlm)
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
 <div style="text-align:center;border-bottom:2px solid rgb(55,62,71);margin-bottom:2rem;margin:0 auto;">
     <h1 style="text-align:center;border:0;font-family:'Poppins',sans-serif;font-weight:600;letter-spacing:1.2px;" align="center">Hi! I'm Irfan Halim Hidayat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
@@ -14,6 +13,7 @@
 ### Find me on
 <p><a href="https://www.linkedin.com/in/irfan-halim-hidayat-7274291bb/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+![](https://komarev.com/ghpvc/?username=Irfanhlm)
 
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
