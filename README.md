@@ -8,7 +8,7 @@
     <li>👨🏼‍💻 I am a Front-End Web Developer.</li>
     <li>😁 I sometimes share my study results on my Github.</li>
     <li>📫 How to reach me: <a href="mailto:irfanhalimhidayat@gmail.com" target="_blank">irfanhalimhidayat@gmail.com</a></li>
-</ul><br>
+</ul>
 
 ### Find me on
 <p><a href="https://www.linkedin.com/in/irfan-halim-hidayat-7274291bb/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
