@@ -1,7 +1,3 @@
-### Find me on
-<p><a href="https://www.linkedin.com/in/irfan-halim-hidayat-7274291bb/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
 ![](https://komarev.com/ghpvc/?username=Irfanhlm)
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
 <div style="text-align:center;border-bottom:2px solid rgb(55,62,71);margin-bottom:2rem;margin:0 auto;">
@@ -14,6 +10,10 @@
     <li>😁 I sometimes share my study results on my Github.</li>
     <li>📫 How to reach me: <a href="mailto:irfanhalimhidayat@gmail.com" target="_blank">irfanhalimhidayat@gmail.com</a></li>
 </ul><br>
+
+### Find me on
+<p><a href="https://www.linkedin.com/in/irfan-halim-hidayat-7274291bb/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
