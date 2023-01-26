@@ -13,7 +13,9 @@
 ### Find me on
 <p><a href="https://www.linkedin.com/in/irfan-halim-hidayat-7274291bb/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
 ![](https://komarev.com/ghpvc/?username=Irfanhlm)
+
 
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
