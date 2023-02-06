@@ -21,8 +21,7 @@
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-Hello, i'm Halim. Interested in technology and design. I have studied Frontend Web Development and studied UI design. I recently graduated from the Alterra Academy immersive program for Frontend Development. For more than 2 months at Alterra Academy, I have created projects like E-Commerce, Event Planning App, Rent & Booking Rooms App, and Movies App. Now and next, I want to continue to learn about website development technology. I'm happy and enjoy learning Website Development.
-The IT field is developing very rapidly, and I would like to contribute to its development.
+Hello, my name is Halim. Interested in technology and design. I have studied Frontend development, Backend development and studied UI design. I recently graduated from the Alterra Academy immersive program for Frontend Development and Backend Development. I learned a lot about Frontend-Backend Development at Alterra Academy, and now I can build interactive website with Restful APIs. Next, I want to continue to learn about website development technology. I'm happy and enjoy as a Web Developer. 
 
 </details> 
 
