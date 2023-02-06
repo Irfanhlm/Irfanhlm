@@ -1,6 +1,6 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
 <div style="text-align:center;border-bottom:2px solid rgb(55,62,71);margin-bottom:2rem;margin:0 auto;">
-    <h1 style="text-align:center;border:0;font-family:'Poppins',sans-serif;font-weight:600;letter-spacing:1.2px;" align="center">Hi! I'm Irfan Halim Hidayat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+    <h1 style="text-align:center;border:0;font-family:'Poppins',sans-serif;font-weight:600;letter-spacing:1.2px;" align="center">Hi! I'm Halim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div><br>
 
 <ul style="font-family: 'Poppins', sans-serif;font-weight:400;letter-spacing:1px;margin-top:2.25rem;">
@@ -21,7 +21,7 @@
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-Hello, my name is Halim. Interested in technology and design. I have studied Frontend development, Backend development and studied UI design. I recently graduated from the Alterra Academy immersive program for Frontend Development and Backend Development. I learned a lot about Frontend-Backend Development at Alterra Academy, and now I can build interactive website with Restful APIs. Next, I want to continue to learn about website development technology. I'm happy and enjoy as a Web Developer. 
+Hello, my name is Irfan Halim Hidayat. Interested in technology and design. I have studied Frontend development, Backend development and studied UI design. I recently graduated from the Alterra Academy immersive program for Frontend Development and Backend Development. I learned a lot about Frontend-Backend Development at Alterra Academy, and now I can build interactive website with Restful APIs. Next, I want to continue to learn about website development technology. I'm happy and enjoy as a Web Developer. 
 
 </details> 
 
