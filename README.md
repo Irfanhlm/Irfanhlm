@@ -16,12 +16,12 @@
 
 ![](https://komarev.com/ghpvc/?username=Irfanhlm)
 
-<br><br><br><br><br>
+<br><br>
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-Hello, my name is Irfan Halim Hidayat. Interested in technology specifically <b>Software Development</b>. I have 2 years experience as a Fullstack Developer.<br> I recently graduated from the DigitalSkola for QA Engineer. I learned a lot about Automation Testing, Manual Testing, Tools & Framework for Testing and many things at DigitalSkola.<br> I am incredibly excited to start my new role as a <b>Quality Assurance</b> professional, and I’ve felt so drawn to dive deeper into the world of <b>Software Development</b>. Every line of code, every test, and every process I go through is opening my eyes to the importance of quality in every app we use daily. 
+Hello, my name is <b>Irfan Halim Hidayat</b>. Interested in technology specifically <b>Software Development</b>. I have 2 years experience as a Fullstack Developer.<br> I recently graduated from the DigitalSkola for QA Engineer. I learned a lot about Automation Testing, Manual Testing, Tools & Framework for Testing and many things at DigitalSkola.<br> I am incredibly excited to start my new role as a <b>Quality Assurance</b> professional, and I’ve felt so drawn to dive deeper into the world of <b>Software Development</b>. Every line of code, every test, and every process I go through is opening my eyes to the importance of quality in every app we use daily. 
 
 </details> 
 
