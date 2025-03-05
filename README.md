@@ -4,8 +4,8 @@
 </div><br>
 
 <ul style="font-family: 'Poppins', sans-serif;font-weight:400;letter-spacing:1px;margin-top:2.25rem;">
-    <li>🎓 I recently graduated from the Alterra Academy and Digital Skola.</li>
-    <li>👨🏼‍💻 I am a Front-End Web Developer and Quality Assurance Engineer.</li>
+    <li>🎓 I graduated from the Alterra Academy and Digital Skola.</li>
+    <li>👨🏼‍💻 I am a Full-Stack Developer and Quality Assurance Engineer.</li>
     <li>😁 I sometimes share my study results on my Github.</li>
     <li>📫 How to reach me: <a href="mailto:irfanhalimhidayat@gmail.com" target="_blank">irfanhalimhidayat@gmail.com</a></li>
 </ul>
