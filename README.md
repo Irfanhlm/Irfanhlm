@@ -16,7 +16,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Irfanhlm)
 
-<br><br>
+<br>
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
 
