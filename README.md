@@ -77,6 +77,9 @@ Hello, my name is <b>Irfan</b>. Interested in technology specifically <b>Softwar
 ![Golang](https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 <br><br><br><br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irfanhlm&layout=compact&card_width=445px&theme=material-palenight)](https://github.com/Irfanhlm/github-readme-stats)
-![Halim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irfanhlm&show_icons=true&theme=material-palenight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irfanhlm&layout=compact&card_width=445px&theme=material-palenight)]
+
+
+// (https://github.com/Irfanhlm/github-readme-stats)
+// ![Halim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irfanhlm&show_icons=true&theme=material-palenight)
 
