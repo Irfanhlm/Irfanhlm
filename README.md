@@ -79,7 +79,5 @@ Hello, my name is <b>Irfan</b>. Interested in technology specifically <b>Softwar
 <br><br><br><br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irfanhlm&layout=compact&card_width=445px&theme=material-palenight)]
 
-
-// (https://github.com/Irfanhlm/github-readme-stats)
-// ![Halim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irfanhlm&show_icons=true&theme=material-palenight)
-
+<!-- (https://github.com/Irfanhlm/github-readme-stats)
+![Halim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irfanhlm&show_icons=true&theme=material-palenight) -->
